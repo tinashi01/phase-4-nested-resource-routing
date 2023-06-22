@@ -13,3 +13,4 @@ class DogHousesController < ApplicationController
   end
 
 end
+
